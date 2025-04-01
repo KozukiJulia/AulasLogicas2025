@@ -1,0 +1,177 @@
+Lógica
+Problema dos baldes 
+Problema 1: Você precisa retirar exatamente 7 litros de água de uma bica, com esses baldes. Como fazer isto?
+Enche o balde de 5 litros tira 3, sobra dois, passa esses dois pro de 3litros e depois enche o balde de 5 litros 
+
+Problema 2:  Com os mesmos baldes, diga como fazer para retirar exatamente 4 litros de água da mesma bica.
+Enche o de 3l joga no de 5l enche o de 3l e coloca no de 5(vai sobrar 1l no de 3l) joga fora o de 5, joga 1l que sobrou (no de 3l) dentro do de 5l de novo e enche o de 5, assim completaria 4l.
+O lobo e a ovelha 
+Pega a ovelha e atravessa sem nada, pega a couve ou lobo, traz ovelha de volta leva outro item deixa a ovelha e volta sozinho.
+
+Sequência 
+Você acordou com vontade de tomar café e precisa preparar uma xicara.
+Seu desafio é criar um passo a passo que oriente qualquer pessoa a preparar um café simples.
+Pegue um bule 
+enche d’água 
+ coloque pra ferver 
+enquanto a água ferve
+ pegue a xícara
+ um coador/ filtro 
+colocando os em cima da xicara e
+coloque o café dentro
+ quando a água estiver fervida
+ coloque no coador/ filtro 
+ despeje a água 
+depois coloque açúcar 
+mexa com uma colher.
+
+Seleção/ condição
+Toma decisões em condições 
+A condição determina qual caminho seguir, baseado em uma condição
+Exemplo- escolher roupa para o dia 
+
+Ensolarado-
+Verifique a previsão do tempo 
+ passar protetor solar, 
+colocar bikini, 
+pegar uma mochila 
+ colocar toalha 
+uma troca de roupa fresca 
+ ir pegar uma piscina 
+Nublado- 
+olhar a previsão
+colocar uma calça e camiseta
+vou pro clube de carro
+ com uma mochila 
+coloque casaco 
+ um guarda-chuva
+ficar em lugares cobertos caso chova 
+
+Chuvosos- 
+Olhar a previsão
+Não sair de casa 
+Pegar uma coberta ou casaco caso esteja frio
+Fazer pipoca 
+Ligar a tv e procurar um filme
+
+
+Repetição
+ Repete as intruções várias vezes
+repete código enquanto necessario 
+
+
+Repetição (loop)
+Executa um conjunto de passos varias vezes.
+Exemplo- subir escada:
+ Comece no primeiro degrau 
+enquanto não estiver no ultimo degrau:
+suba um degrau 
+cobfirme se há mais degraus acima 
+
+Acordei
+levanto da cama 
+pegar o celular
+pego o desoderante e perfume passo
+coloco a blusa
+coloque a calça 
+coloque a meia 
+coloque o tenis 
+escovo os dentes 
+pego uma bolacha 
+pego um cha 
+bebo o cha 
+escovo os dentes novamente 
+olho a previsão do tempo 
+se estiver nublado ou chuvoso 
+	pego um guarda chuva 
+pego a chave 
+tranco a casa
+penso qual caminho escolher 
+começo a andar 
+vi que não chegeui ainda 
+continuo a andar 
+ando até chegar na escola 
+
+EXERCICIOS
+1 -como preparar um sanduiche simples pão, presunto,queijo e maionese 
+pegue duas fatias de pão frances 
+pegue uma faca 
+segure pelo cabo
+corte o pão ao meio
+abra-o pão ao meio 
+pegue uma espatula
+segure pelo cabo
+coloque o na maionese 
+pegue uma pouca quantia de maionese 
+passe a maionese na parte interio do pão em uma das metades
+pegue o presunto 
+coloque o presunto em cima da maionese que foi passada no pão 
+pegue o queijo 
+coloque o queijo em cima do presunto 
+feche o pão 
+
+2- explique como lavar corretamente as mãos 
+Vá ao banheiro 
+va a frente da pia 
+estique a mão para frente 
+pegue o sabonte aperte o na sua mão 
+devolva o sabonete para a pia 
+passe o sabonete na sua outra mão 
+interlasse as suas maos 
+faça movimentos de subir e descer 
+continue nesse movimento ate fazer espuma 
+qaundo tiver esbuma abra a torneira 
+gire a torneira para a brir 
+coloque suas mão de baixo da agua 
+faça movimentos com as mão de um lado para o outro
+continue esse movimento até sair toda a espuma 
+saindo a espuma leve uma das suas mãos paara a torneira 
+gire do lado ao contrario que abriu 
+pugue uma toalha 
+passe as mão por dentro da toalha até secar 
+
+3- pergute quias são os numeros para a multiplicação 
+apos saber os numeros 
+pegue o celular no seu bolso 
+ligue-o
+abra-o na calculadora 
+digite um dos numeros citados 
+digite a forma que simboliza a multiplicação*
+digite o outro numero citado 
+aperte no sinal de igual 
+fale qual foi o numero que apareceu para a pessoa 
+
+ 
+4- pegue um copo americano
+coloque ele sobre a pia 
+pegue 5 laranjas 
+deixe elas na pia 
+com a mão direita pegue uma faca pelo cabo 
+pegue com a mão esquerda a laranja 
+com a faca corte a larja ao meio 
+apos cortas todas pelo mesmo processo 
+deixe a faca na pia 
+pegue a laranja 
+aberte a laranja no copo 
+aberte a laranja até parar de sair liquido 
+quando acabar o liquido pegue outra 
+até acabar as laranjas 
+abra o congelador 
+pegue o gelo 
+feche a geladeira 
+desenforme dois gelos pequenos 
+coloque os gelos no copo 
+abra o armario 
+pegue o açucar 
+abra-o
+feche o armario 
+abre a gaveta 
+pegue culher 
+feche a gaveta 
+com a mão direita segure a culher pelo cabo 
+segure o pote de açucar com a esquerda 
+coloque a culher no pote de açucar 
+pegue uma quantia que não derrube  coloque o no copo
+faça esse processo 4 vezes
+coloque a colher no copo 
+mexa-o
